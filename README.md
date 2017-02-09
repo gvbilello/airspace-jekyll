@@ -1,7 +1,3 @@
-# _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
+# Personal Website of Gregory Bilello
 
-This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
-
-## Usage
-To start your project, [fork this respository](https://github.com/luminousrubyist/airspace-jekyll/fork), put in your content, and go!
+Built in Ruby with JavaScript ES6, HTML5, and CSS3 utilizing [Jekyll](https://jekyllrb.com/) and the Jekyll [port](https://github.com/luminousrubyist/airspace-jekyll) of ThemeFischer's Airspace template.
