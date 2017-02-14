@@ -16,6 +16,7 @@ permalink: /blog/
     </div>
   </div>
 </section>
+
 {% for post in site.posts %}
 <div class="post-area">
   <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
@@ -25,3 +26,18 @@ permalink: /blog/
   </p>
 </div>
 {% endfor %}
+
+<!-- Call to action Start -->
+<section id="call-to-action">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>CONTACT ME</h2>
+          <p>I'm looking for full time work as a developer or engineer in the greater New York City area, but I'm also interested in collaborating on open-source projects.  Drop me a line!</p>
+          <a class="btn btn-default btn-call-to-action" href="{{ site.baseurl }}/contact">Contact</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
