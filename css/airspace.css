@@ -13,6 +13,7 @@
 /*--
 	Common Css
 --*/
+
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -256,6 +257,11 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
+}
+
+#feature p.white-outline-text {
+  color: white;
+  text-shadow: 2px 2px 2px black, 0 0 1em black, 0 0 0.2em black;
 }
 #feature p {
   color: #8d8f92;

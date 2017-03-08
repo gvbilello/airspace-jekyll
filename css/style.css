@@ -4,6 +4,11 @@
  *
  */
 
+.white-outline-text {
+  /*-webkit-text-stroke: 1px black;*/
+  color: white;
+}
+
  .italic {
    font-style: italic;
  }
